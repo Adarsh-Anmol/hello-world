@@ -1,2 +1,4 @@
 # hello-world
-my veru first repositary
+my very first repositary
+
+Yo cool!
